@@ -8,12 +8,12 @@ Welcome to the Automated Data Quality Checks project! This Python-based tool ens
     🚫 Null Value Detection (Null check.py) – Checks for missing values in crucial fields and generates reports.
     📏 Range Validation (Rangevalidation.py) – Verifies if numeric values fall within predefined limits.
 
-##🏗️ Setup & Requirements
+## 🏗️ Setup & Requirements
 
     Ensure Python 3.x is installed. 🐍
     No external libraries required – just clone and run! 🚀
 
-##🚀 How to Use
+## 🚀 How to Use
 1️⃣ Clone the repository
 
 git clone https://github.com/kyancolin/Automated-errors-for-incoming-files.git
@@ -23,13 +23,13 @@ git clone https://github.com/kyancolin/Automated-errors-for-incoming-files.git
 python Duplication\ check.py
 
 3️⃣ Check the generated reports 📄
-##🔮 Future Improvements
+## 🔮 Future Improvements
 
     🏗️ Integration with Databricks for enterprise-level automation.
     📊 Visualization tools to present validation reports interactively.
     ⏳ Performance optimizations for large datasets.
 
-##💡 Contribute & Feedback
+## 💡 Contribute & Feedback
 
 Have suggestions or found an issue? Feel free to open an issue or contribute to the project!
 📧 Contact: inquiresforkyan@gmail.com
