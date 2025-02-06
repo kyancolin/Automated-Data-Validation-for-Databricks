@@ -1,7 +1,7 @@
 # 🛠️ Automated Data Quality Checks for Incoming Files 📊
 
 Welcome to the Automated Data Quality Checks project! This Python-based tool ensures that incoming datasets meet high-quality standards by validating missing values, duplicates, range limits, and format consistency. ✅
-##📌 Features
+## 📌 Features
 
     🗓️ Date Validation (Datumvalidatie.py) – Ensures dates are in the correct format and within an acceptable range.
     🔄 Duplicate Check (Duplication check.py) – Identifies and flags duplicate records to prevent redundancy.
