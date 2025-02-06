@@ -1,4 +1,4 @@
-#🛠️ Automated Data Quality Checks for Incoming Files 📊
+# 🛠️ Automated Data Quality Checks for Incoming Files 📊
 
 Welcome to the Automated Data Quality Checks project! This Python-based tool ensures that incoming datasets meet high-quality standards by validating missing values, duplicates, range limits, and format consistency. ✅
 ##📌 Features
